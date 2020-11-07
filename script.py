@@ -1,7 +1,7 @@
-nombre = "Jorge"
+nombre = "Osmar"
 
 apellidos = "Montesinos"
 
 edad = 30
 
-print(f"{nombre} - {apellidos} - {edad}")
+print(f"Me llamo {nombre} {apellidos} y tengo {edad} años de edad")
