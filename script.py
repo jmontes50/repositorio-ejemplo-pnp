@@ -1,6 +1,6 @@
-nombre = "Osmar"
+nombre = "Jorge"
 
-apellidos = "Montesinos"
+apellidos = "Aramayo"
 
 edad = 30
 
