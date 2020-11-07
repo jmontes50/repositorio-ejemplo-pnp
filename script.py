@@ -1,6 +1,6 @@
 nombre = "Jorge"
 #considerar ciudad
-apellidos = "Aramayo"
+apellidos = "Garnica"
 
 edad = 28
 
